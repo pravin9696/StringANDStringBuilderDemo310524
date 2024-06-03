@@ -1,0 +1,22 @@
+1. Write a  program to find length of a string.
+
+2. Write a  program to copy one string to another string.
+
+3. Write a  program to concatenate two strings.
+
+4. Write a  program to compare two strings  (strcmp /strcmpi) 
+5. Write a  program to convert lowercase string to uppercase.
+
+6. Write a  program to convert uppercase string to lowercase.
+
+7. Write a  program to toggle case of each character of a string.
+
+8. Write a  program to find total number of alphabets, digits or special character in a string.
+
+9. Write a  program to count total number of vowels and consonants in a string.
+
+10.Write a  program to count total number of words in a string.
+
+11.Write a  program to find reverse of a string.
+
+12.Write a  program to check whether a string is palindrome or not.
