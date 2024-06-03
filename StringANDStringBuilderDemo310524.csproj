@@ -55,6 +55,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="Assignments\lab Assignment on String StringBuilder java.pdf" />
     <None Include="Assignments\Practical Questions on String and String Builder.docx" />
   </ItemGroup>
   <ItemGroup />
