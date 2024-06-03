@@ -73,14 +73,16 @@ namespace StringANDStringBuilderDemo310524
             //    }
             //}
             //Console.WriteLine(ch2);
-            Console.WriteLine(s1.Length);
-            Console.WriteLine("**"+s1+"**");
+            //Console.WriteLine(s1.Length);
+            //Console.WriteLine("**"+s1+"**");
 
-            string s2= s1.Trim();
-            Console.WriteLine(s2.Length);
-            Console.WriteLine("**" + s2 + "**");
-            s1 = s1.Trim();
-            Console.WriteLine(string.Compare(s1,s2));
+            //string s2= s1.Trim();
+            //Console.WriteLine(s2.Length);
+            //Console.WriteLine("**" + s2 + "**");
+            //s1 = s1.Trim();
+            //Console.WriteLine(string.Compare(s1,s2));
+            stringmixDemo sd = new stringmixDemo();
+            sd.method();
             Console.ReadKey();
         }
     }
